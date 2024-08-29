@@ -1,0 +1,13 @@
+<style>
+.list-group-item {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-danger {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+</style>
+
