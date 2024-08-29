@@ -11,6 +11,8 @@ from extensions import db, migrate, login_manager, csrf
 from forms import LoginForm, RegisterForm, PostForm
 from models import User, Post
 
+
+
 # 파일 다운로드 import
 #from flask import send_file, send_from_directory, safe_join, abort
 from flask import send_file, send_from_directory, abort

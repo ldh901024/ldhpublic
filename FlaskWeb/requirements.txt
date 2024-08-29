@@ -4,4 +4,4 @@ Flask-SQLAlchemy==2.5.1
 Werkzeug==2.1.1
 Flask-WTF==1.0.1
 SQLAlchemy==1.4.47
-
+Flask-Migrate==4.0.7
